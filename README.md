@@ -6,6 +6,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=2021-iGEM-IISc-wiki)](https://github.com/chanrt/2021-iGEM-IISc-wiki)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=verbose-interpreter-python)](https://github.com/chanrt/verbose-interpreter-python)
+
 <!--
 **chanrt/chanrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
