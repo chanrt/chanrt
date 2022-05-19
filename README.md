@@ -2,11 +2,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanrt&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS,Shell&langs_count=8)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=chess-ai)](https://github.com/chanrt/chess-ai)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=2021-iGEM-IISc-wiki)](https://github.com/chanrt/2021-iGEM-IISc-wiki)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=procedural-racing-3d)](https://github.com/chanrt/procedural-racing-3d)
+<a href="https://github.com/chanrt/chess-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=chess-ai&theme=buefy" />
+</a>
+<a href="https://github.com/chanrt/2021-iGEM-IISc-wiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=2021-iGEM-IISc-wiki&theme=buefy" />
+</a>
 
 <!--
 **chanrt/chanrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
