@@ -8,6 +8,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=verbose-interpreter-python)](https://github.com/chanrt/verbose-interpreter-python)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=procedural-racing-3d)](https://github.com/chanrt/procedural-racing-3d)
+
 <!--
 **chanrt/chanrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
