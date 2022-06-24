@@ -8,8 +8,12 @@
 <a href="https://github.com/chanrt/2021-iGEM-IISc-wiki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=2021-iGEM-IISc-wiki&theme=buefy" />
 </a>
+
 <a href="https://github.com/chanrt/collective-behaviour-interactive">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=collective-behaviour-interactive&theme=buefy" />
+</a>
+<a href="https://github.com/chanrt/procedural-racing-3d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=procedural-racing-3d&theme=buefy" />
 </a>
 
 <!--
