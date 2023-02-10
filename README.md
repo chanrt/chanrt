@@ -1,5 +1,5 @@
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chanrt&theme=dark&count_private=true&show_icons=true)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chanrt&theme=dark&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanrt&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS,Shell&langs_count=8)
 
@@ -15,7 +15,7 @@
 </a>
 <a href="https://github.com/chanrt/procedural-racing-3d">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=procedural-racing-3d&theme=buefy" />
-</a>
+</a> -->
 
 <!--
 **chanrt/chanrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
