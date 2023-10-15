@@ -1,4 +1,4 @@
-Check out my interactive simulations and visualizations website, ![Visualize-It](https://visualize-it.github.io/)!
+Check out my interactive simulations and visualizations website, [Visualize-It](https://visualize-it.github.io/)!
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chanrt&theme=dark&count_private=true&show_icons=true)
 
