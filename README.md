@@ -1,34 +1,13 @@
-Check out my interactive simulations and visualizations website, [Visualize-It](https://visualize-it.github.io/)!
+Welcome,
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chanrt&theme=dark&count_private=true&show_icons=true)
+I'm a hobbyist programmer interested in modeling and simulations of [Complex Systems](https://en.wikipedia.org/wiki/Complex_system). I'm always eager to learn and explore fascinating concepts. I'm particularly fascinated by how simple models can explain/replicate complex phenomena, how emergent behavior arises from simple interactions, and how spontaneous order appears in disordered systems. Looking forward to harnessing computational power, analytical tools, as well as recent strides in artificial intelligence to disentangle and study such phenomena.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanrt&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS,Shell&langs_count=8)
+1) Visit my interactive simulations and visualizations website, [Visualize It](https://visualize-it.github.io/), to find out what I'm talking about
+2) I also develop games. Check out the entire showcase [here](https://chanrt.github.io/gamedev.html)
+3) I've attempted to make my own programming language - Verbose. You can find its interpreter prototype in [this repository](https://github.com/chanrt/verbose-interpreter-python)
+4) Sometimes, I write programs to make my (and hopefully others') life easier. Examples include [a freely typed scientific calculator](http://online-calculator.glitch.me/), [a latex pseudo-package to simplify writing complex equations](https://github.com/chanrt/simple-latex), modules to implement [user interface](https://github.com/chanrt/pygame-ui) and [animations](https://github.com/chanrt/pygame-ui) in pygame, etc
+5) I've also dabbled in AI - [Chess AI with minimax](https://github.com/chanrt/chess-ai), [segmentation and character recognition of hand-written and printed text](https://github.com/chanrt/image-segmentation-ocr), and [a game that utilizes hand signals from webcam as input](https://github.com/chanrt/infinity-run)
+6) I used to develop websites. Besides some examples presented above, I have also developed the websites for [iGEM Team IISc 2021](https://2021.igem.org/Team:IISc-Bangalore), [Pravega (IISc UG's Sci-Tech fest)](https://www.pravega.org/) and [my own website](https://chanrt.github.io/)
 
-<a href="https://github.com/chanrt/chess-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=chess-ai&theme=buefy" />
-</a>
-<a href="https://github.com/chanrt/2021-iGEM-IISc-wiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=2021-iGEM-IISc-wiki&theme=buefy" />
-</a>
-
-<a href="https://github.com/chanrt/collective-behaviour-interactive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=collective-behaviour-interactive&theme=buefy" />
-</a>
-<a href="https://github.com/chanrt/procedural-racing-3d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chanrt&repo=procedural-racing-3d&theme=buefy" />
-</a> -->
-
-<!--
-**chanrt/chanrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile,
+Chandan
