@@ -9,4 +9,6 @@ I'm a hobbyist programmer interested in modeling and simulations of [Complex Sys
 5) 🤖 I've also dabbled in AI - [Chess AI with minimax](https://github.com/chanrt/chess-ai), [segmentation and character recognition of hand-written and printed text](https://github.com/chanrt/image-segmentation-ocr), and [a game that utilizes hand signals from webcam as input](https://github.com/chanrt/infinity-run)
 6) 🌐 I used to develop websites. Besides some examples presented above, I have also developed the websites for [iGEM Team IISc 2021](https://2021.igem.org/Team:IISc-Bangalore), [Pravega (IISc UG's Sci-Tech fest)](https://www.pravega.org/) and [my own website](https://chanrt.github.io/)
 
+For professional queries, please email me at [chandan.relekar@gmail.com](mailto:chandan.relekar@gmail.com). Otherwise, you should raise issue(s) in the corresponding repository.
+
 Thanks for visiting my profile!
